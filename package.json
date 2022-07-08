@@ -1,0 +1,33 @@
+{
+  "name": "my-gatsby-site",
+  "version": "1.0.0",
+  "private": true,
+  "description": "my-gatsby-site",
+  "author": "mc5rgspider",
+  "keywords": [
+    "gatsby"
+  ],
+  "scripts": {
+    "develop": "gatsby develop",
+    "start": "gatsby develop",
+    "build": "gatsby build",
+    "serve": "gatsby serve",
+    "clean": "gatsby clean"
+  },
+  "dependencies": {
+    "babel-plugin-styled-components": "^2.0.7",
+    "gatsby": "^4.17.1",
+    "gatsby-plugin-image": "^2.17.0",
+    "gatsby-plugin-sharp": "^4.17.0",
+    "gatsby-plugin-styled-components": "^5.17.0",
+    "gatsby-source-shopify": "^7.6.0",
+    "gatsby-source-shopify-storefront": "^1.0.0",
+    "gatsby-transformer-sharp": "^4.17.0",
+    "isomorphic-fetch": "^3.0.0",
+    "react": "^18.1.0",
+    "react-dom": "^18.1.0",
+    "react-helmet": "^6.1.0",
+    "shopify-buy": "^2.15.1",
+    "styled-components": "^5.3.5"
+  }
+}
